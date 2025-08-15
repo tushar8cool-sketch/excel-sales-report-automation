@@ -30,7 +30,7 @@ Perfect for sales data, inventory logs, research datasets, and more.
 ## 🖼 Screenshots
 | Raw Data | Summary Table | Excel Chart |
 |----------|--------------|-------------|
-| ![Raw Data](RAw_data.png) | ![Summary Table](summary_table.png) | ![Excel Chart](assets/excel_chart.png) |
+| ![Raw Data](RAw_data.png) | ![Summary Table](Cleaned_data.png) | ![Excel Chart](Chart.png) |
 
 ---
 
