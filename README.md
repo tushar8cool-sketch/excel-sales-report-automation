@@ -45,4 +45,4 @@ Perfect for sales data, inventory logs, research datasets, and more.
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/excel-sales-report-automation.git
+   git clone https://github.com/Tushar_Bagewadi/excel-sales-report-automation.git
